@@ -1,2 +1,2 @@
 # Install_app_PsGui
-Install apps with Ps Gui on a new PCs
+Install apps with Ps Gui on a new PCs, just something for fun :)
